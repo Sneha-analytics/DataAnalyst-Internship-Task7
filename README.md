@@ -55,7 +55,8 @@ plt.savefig("sales_chart.png")
 plt.show()
 
 # Close connection
-con.close() ```
+con.close()
+```
 
 ## **Deliverables**
 Python script / Jupyter Notebook
