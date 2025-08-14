@@ -56,7 +56,8 @@ plt.show()
 
 # Close connection
 con.close()
-Deliverables
+
+## **Deliverables**
 Python script / Jupyter Notebook
 
 SQLite database (sales_data.db)
